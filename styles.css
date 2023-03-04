@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+/* Header */
+header h1 {
+    text-align: center;
+    margin: 2rem;
+    color: #3f6212;
+    font-weight: 1200;
+  }
+
+  .nameofproject{
+    color: (var(--primary-color));
+  }
+
+  .input-label {
+    display: block;
+    font-size: larger;
+    margin: 2rem 0px;
+    font-weight: 1000;
+  }
+  
+  .input {
+    font-size: large;
+    display: block;
+    padding: 0.6rem 1rem;
+    margin: 1rem auto;
+    border: 2px solid #3f6212;
+    border-radius: 0.5rem;
+    width: 100%;
+    max-width: 300px;
+  }
+
+
+  body {
+    font-family: 'Lora', serif;
+    text-align: center;
+    background-color: #d9f99d;
+  }
+
+  .container{
+    margin: 3rem auto 7rem;
+    text-align: center;
+}
+
+  .result {
+    font-size: x-large;
+    font-weight: 600;
+    margin: 2rem 0;
+  }
+
+  #check-button {
+    background: #3f6212;
+    border: none;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: #fff;
+    margin: auto;
+    display: block;
+  }
+
+  /* Footer */
+
+  footer {
+    text-align: center;
+    margin: 3rem;
+  }
+  
+  footer p {
+    font-size: large;
+    text-align: center;
+    margin : 1rem;
+  }
+  
+  .footer-list {
+    margin: 2rem;
+  }
+  
+  a,
+  img,
+  li {
+    display: inline;
+  }
+  
+  img {
+    width: 20px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  li {
+    list-style: none;
+    padding : 0rem 1rem 0rem 0rem;
+  }
