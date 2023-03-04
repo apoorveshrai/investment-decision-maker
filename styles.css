@@ -48,7 +48,7 @@ header h1 {
     text-align: center;
 }
 
-  .result {
+  .resultbox {
     font-size: x-large;
     font-weight: 600;
     margin: 2rem 0;
@@ -67,6 +67,11 @@ header h1 {
     display: block;
   }
 
+  #resultbox {
+    display: block;
+    font-size: larger;
+    margin: 1rem 0 0;
+  }
   /* Footer */
 
   footer {
