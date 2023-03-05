@@ -14,3 +14,10 @@ Languages Used :
 1. HTML  
 2. CSS  
 3. JavaScript  
+
+Code editor : VScode  
+
+Version control : Github, Github desktop  
+
+Free hosting : Netlify  
+
